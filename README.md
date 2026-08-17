@@ -1,11 +1,11 @@
-<img width="150" height="150" alt="react-original-wordmark" src="https://github.com/user-attachments/assets/4ca2a4a8-f9bc-4109-ae77-171276ffb276" />Hi 👋, I'm HARSH JAISWAL
+Hi 👋, I'm HARSH JAISWAL
 
 ### 🚀 Flutter Developer | Android | iOS | Backend Developer
 
 I'm a passionate Flutter Developer focused on building scalable, user-friendly and production-ready mobile applications.
 
 - 🔭 Currently working on **Flutter Applications, SFA, Rewards & E-Commerce Platforms**
-- 🌱 Currently learning **Backend Development
+- 🌱 Currently learning **Backend Development,Devops
 - 💙 Specialized in **Flutter ,Dart , Node.js,Php,MYSQL ,MongoDb,HTML,CSS
 - 📱 Experienced in building **Android & iOS Applications**
 - 🗺️ Working with **Google Maps, GPS & Real-Time Location Tracking**
