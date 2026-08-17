@@ -14,7 +14,7 @@ I'm a passionate Flutter Developer focused on building scalable, user-friendly a
 - 🤝 Open to collaborating on **Flutter, Mobile & Backend Projects**
 - 📫 Reach me through **GitHub / LinkedIn**
 
-🛠️ Languages and Tools :
-Modern Tech Stack Tools Board
+🛠️ Languages and Tools :<img width="1536" height="1024" alt="tools" src="https://github.com/user-attachments/assets/1b3eb1cf-ed12-4cc9-8b0c-ff3a75db92ac" />
+
 
 
